@@ -1,0 +1,8 @@
+.logo {
+    height: 75px;
+    width: 75px;
+    background-color: lightgrey;
+    border-radius: 50%;
+    background-image: url(https://ih1.redbubble.net/image.821742558.2894/flat,750x,075,f-pad,750x1000,f8f8f8.jpg);
+    background-size: cover;
+}
